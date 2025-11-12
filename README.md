@@ -1,19 +1,19 @@
-Hello! My name is Avighna Sharma!
+👋 Hello! I'm Avighna Sharma
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+💻 Languages I Code In
+
+- Python 🐍
+- JavaScript ⚡
+- HTML/CSS 🌐
+- C++ 🚀
+- Java ☕
+
+🏆 Hackathons I've Attended
+
+- HackPHS 2025
+- NASA Space Apps Hackathon
+- BHRS Hackathon
+- Congressional App Challenge
+- More to come...?
 
 
-<!--
-**Avi823/Avi823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
